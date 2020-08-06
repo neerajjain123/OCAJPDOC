@@ -1,7 +1,7 @@
 
-[1.Topics](#1Topics)
+1. Topics
 
-# 1. Java Basic
+# [1. Java Basic](./javabasics/index.md)
 # 2. Operators 
 # 3. Basic Control Flow
 # 4. Strings
