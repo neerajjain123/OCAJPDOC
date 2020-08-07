@@ -3,7 +3,7 @@
 
 # [1. Java Basic](./javabasic/index.md)
 # [2. Operators] (./operator/index.md)
-# 3. Basic Control Flow
+# [3. Basic Control Flow](./control/index.md)
 # 4. Strings
 # 5. Arrays
 # 6. Arraylist

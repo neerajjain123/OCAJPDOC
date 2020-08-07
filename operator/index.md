@@ -1,12 +1,15 @@
 
-# 1. Java Class Structure**
-# 2. Main Method 
-# 3. Package
-# 4. Import
-# 5. Primitive DataType
-# 6. Variable Scope
-# 7. Variable Initialization
-# 8. Primitve Wrapper
+# 1. Arithmetic Operator
+# 2. Numeric Promotion And Casting
+# 3. Unary Operators
+# 4. Assignment Operator
+# 5. Compound Assignment Operators
+# 6. Releational Operator
+# 7. Conditional Operators
+# 8. Equality Operators
+# 9. Understanding == and equals() method
+# 10. Character Arithmetic
+
 
 
 
