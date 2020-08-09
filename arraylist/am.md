@@ -47,10 +47,10 @@ public class Test {
 **Reason:**
 
 
-intlist.remove(1) ==> There wont be any default autoboxing and JVM will remove the element at the index 1.
-intlist.remove(Integer.valueOf(0)) ==> This case JVM will remove Integer object with the value of 0;
-intlist.remove(new Integer(8)) ==> This case JVM will remove Integer object with the value of 8;
-intlist.remove(null); ==> This case JVM will remove null object from the list. 
+intlist.remove(1) ==> There wont be any default autoboxing and JVM will remove the element at the index 1. <br/>
+intlist.remove(Integer.valueOf(0)) ==> This case JVM will remove Integer object with the value of 0; <br/>
+intlist.remove(new Integer(8)) ==> This case JVM will remove Integer object with the value of 8; <br/>
+intlist.remove(null); ==> This case JVM will remove null object from the list. <br/>
 
 ## Point to Remember:
 
