@@ -16,7 +16,7 @@ public class Test { <br/>
 				ivar = (int)dvar;  // line 7
 		}
 }
-<code>
+</code>
 Identify the compilation error in the above code
 
 
