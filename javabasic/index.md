@@ -1,12 +1,12 @@
 
 # 1. [Java Class Structure](./jcs.md)
 # 2. [Main Method](./mm.md)
-# 3. Package
-# 4. Import
-# 5. Primitive DataType
-# 6. Variable Scope
-# 7. Variable Initialization
-# 8. Primitve Wrapper
+# 3. [Package](./package.md)
+# 4. [Import](./import.md)
+# 5. [Primitive DataType](./pd.md)
+# 6. [Variable Scope](./vs.md)
+# 7. [Variable Initialization](./vi.md)
+# 8. [Primitve Wrapper](./pw.md)
 
 
 
