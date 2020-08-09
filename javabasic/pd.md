@@ -1,5 +1,6 @@
 
 # Question 1
+<code> 
 public class Test { <br/>
 		public static void main(String[] args) { <br/>
 				long lvar = 100_23l; 
@@ -15,7 +16,7 @@ public class Test { <br/>
 				ivar = (int)dvar;  // line 7
 		}
 }
-
+<code>
 Identify the compilation error in the above code
 
 
