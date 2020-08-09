@@ -46,6 +46,7 @@ public class Test {
 
 **Reason:**
 
+
 intlist.remove(1) ==> There wont be any default autoboxing and JVM will remove the element at the index 1.
 intlist.remove(Integer.valueOf(0)) ==> This case JVM will remove Integer object with the value of 0;
 intlist.remove(new Integer(8)) ==> This case JVM will remove Integer object with the value of 8;
@@ -54,6 +55,8 @@ intlist.remove(null); ==> This case JVM will remove null object from the list.
 ## Point to Remember:
 
 1. </p> you must remember to use ArrayList remove methods, only when you are not iterating over ArrayList. if you are iterating then use Iterator.remove() method, failing to do so may result in </b>ConcurrentModificationException</b> in Java. </p>
+
+2. 
 
 
 
