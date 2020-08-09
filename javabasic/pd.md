@@ -1,9 +1,10 @@
 
 # Question 1
+<pre>
 <code> 
 public class Test { <br/>
 		public static void main(String[] args) { <br/>
-				long lvar = 100_23l; 
+				long lvar = 100_23l; <br/>
 				int ivar = 3400;
 				float fvar = 2.12f;
 				double dvar = 15_0.35d;
@@ -17,6 +18,8 @@ public class Test { <br/>
 		}
 }
 </code>
+</pre>
+
 Identify the compilation error in the above code
 
 
