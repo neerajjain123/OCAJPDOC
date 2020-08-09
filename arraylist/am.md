@@ -2,12 +2,12 @@
 ## Question 1. 
  
 public class Test {
-    public static void main(String[] args) { <br/>
-        List<**String**> neerajlist = new ArrayList<>();<br/>
-        neerajlist.add(null);<br/>
-        neerajlist.add(null);<br/>
-        neerajlist.add(null);<br/>
-        System.out.println(neerajlist.remove(0) + ":" + neerajlist.remove(null));<br/>
+        public static void main(String[] args) { <br/>
+            List<**String**> neerajlist = new ArrayList<>();<br/>
+            neerajlist.add(null);<br/>
+            neerajlist.add(null);<br/>
+            neerajlist.add(null);<br/>
+            System.out.println(neerajlist.remove(0) + ":" + neerajlist.remove(null));<br/>
     }<br/>
 }<br/>
 
