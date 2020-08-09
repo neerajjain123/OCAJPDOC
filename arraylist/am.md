@@ -1,13 +1,13 @@
 
 ## Question 1. 
 
-package com.udayan.oca;<br/>
+package com.neeraj.oca;<br/>
 import java.util.ArrayList;<br/>
 import java.util.List;<br/>
  
 public class Test {
     public static void main(String[] args) { <br/>
-        List<String> neerajlist = new ArrayList<>();<br/>
+        List<**String**> neerajlist = new ArrayList<>();<br/>
         neerajlist.add(null);<br/>
         neerajlist.add(null);<br/>
         neerajlist.add(null);<br/>
