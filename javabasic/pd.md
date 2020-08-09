@@ -1,8 +1,7 @@
 
 # Question 1
-
-public class Test {
-		public static void main(String[] args) {
+public class Test { <br/>
+		public static void main(String[] args) { <br/>
 				long lvar = 100_23l; 
 				int ivar = 3400;
 				float fvar = 2.12f;
