@@ -1,6 +1,6 @@
 
-# 1. [Java Class Structure](./jcs.md)
-# 2. [Main Method](./mm.md)
+# 1. Java Class Structure
+# 2. Main Method 
 # 3. Package
 # 4. Import
 # 5. Primitive DataType
