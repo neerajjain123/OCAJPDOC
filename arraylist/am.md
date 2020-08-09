@@ -22,24 +22,34 @@ Remove(Object) returns true if deletion was successful otherwise false. In this 
 
 ## Question 2. 
 
-public class Test { <br/>
+public class Test { 
 
-		public static void main(String[] args) { <br/>
-            List<Integer> intlist = new ArrayList<>(); <br/>
-				intlist.add(10); <br/>
-				intlist.add(20); <br/>
-				intlist.add(1); <br/>
-				intlist.add(2); <br/>
-				intlist.add(0); <br/>
-				intlist.add(null); <br/>
+		public static void main(String[] args) { 
+            List<Integer> intlist = new ArrayList<>(); 
+				intlist.add(10); 
+				intlist.add(20); 
+				intlist.add(1); 
+				intlist.add(2); 
+                intlist.add(8); 
+
+				intlist.add(0); 
+				intlist.add(null); 
 
 				intlist.remove(1);
 				intlist.remove(Integer.valueOf(0));
-				intlist.remove(new Integer(0));
+				intlist.remove(new Integer(8)); 
                 intlist.remove(null);
+                System.out.println(intlist + " size = " + intlist.size());
         }
 
+**Answer: [10, 1, 2] size = 3**
 
+**Reason:**
+
+intlist.remove(1) ==> There wont be any default autoboxing and JVM will remove the element at the index 1.
+intlist.remove(Integer.valueOf(0)) ==> This case JVM will remove Integer object with the value of 0;
+intlist.remove(new Integer(8)) ==> This case JVM will remove Integer object with the value of 8;
+intlist.remove(null); ==> This case JVM will remove null object from the list. 
 
 ## Point to Remember:
 
