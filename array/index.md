@@ -1,11 +1,11 @@
 
-# 1. Understanding Arrays
-# 2. Break Statement And Labels
-# 3. Continue Statement
-# 4. Sorting Arrays
-# 5. Searching Arrays
-# 6. Variable Arguments
-# 7. Multidimensional Arrays
+# 1. [Understanding Arrays](./ua.md)
+# 2. [Break Statement And Labels](./bsl.md)
+# 3. [Continue Statement](./cs.md)
+# 4. [Sorting Arrays](./sa.md)
+# 5. [Searching Arrays](./sea.md)
+# 6. [Variable Arguments](./va.md)
+# 7. [Multidimensional Arrays](./ma.md)
 
 
 
