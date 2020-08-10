@@ -1,14 +1,28 @@
 
-# 1. Arithmetic Operator
-# 2. Numeric Promotion And Casting
-# 3. Unary Operators
-# 4. Assignment Operator
-# 5. Compound Assignment Operators
-# 6. Releational Operator
-# 7. Conditional Operators
-# 8. Equality Operators
-# 9. Understanding == and equals() method
-# 10. Character Arithmetic
+# Question 1.
+
+<pre>
+<code>
+public class Test {
+	public static void main(String [] args) {
+        int a = 2;
+        boolean res = false;
+        res = a++ == 2 || ++a == 2  && --a == 2;
+        System.out.println(a);
+	}
+}
+</pre>
+What is the ouput of the program.
+</code>
+
+**Answer** 
+
+3
+
+**Reason**
+
+JVM will only evalute the first part of the statement a++ == 2 which is true. Since first or condition is true than compiler will not evaluate the further statement and return. 
+
 
 
 

@@ -26,7 +26,11 @@ What will be the output of the above program.
 
 **Answer** 
 
-Compilation error. The reason that the compiler doesn't complain about switch (foo) where foo is an Integer is because Java auto-unboxes the Integer to an int. the unboxing will throw a NullPointerException when foo is null. Therefore case with null is not allowed within switch label.  
+Compilation error. 
+
+**Reason**
+
+The reason that the compiler doesn't complain about switch (foo) where foo is an Integer is because Java auto-unboxes the Integer to an int. the unboxing will throw a NullPointerException when foo is null. Therefore case with null is not allowed within switch label.  
 
 
 # Point to remeber
