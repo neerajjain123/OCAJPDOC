@@ -21,11 +21,7 @@ What is the ouput of the program.
 
 **Reason**
 
-JVM will only evalute the first part of the statement a++ == 2 which is true. Since first or condition is true than compiler will not evaluate the further statement and return. 
-
-
-
-
+JVM will only evalute the first part of the statement a++ == 2 which is true. Since first (|| is a short-circuit operator) condition is true than compiler will not evaluate the further statement and return. 
 
 
 
