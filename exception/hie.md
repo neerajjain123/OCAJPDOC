@@ -18,4 +18,4 @@
 
 ## Hierarchy Flow
 
-<img src="hie.png" alt="Exception Hierarchy" width="1000" height="600">
+<img src="hie.png" alt="Exception Hierarchy" width="1200" height="800">
