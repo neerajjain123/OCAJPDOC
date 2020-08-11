@@ -10,3 +10,4 @@
 # [7. Methods](./method/index.md)
 # [8. Class Design](./class/index.md)
 # [9. Date And Time](./date/index.md)
+# [10. Exception](./exception/index.md)
