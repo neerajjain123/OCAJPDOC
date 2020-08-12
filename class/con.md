@@ -1,6 +1,7 @@
+# 1. Question
 
-
-
+<pre>
+<code>
 class Parent {
     int i = 10;
     Parent(int i) {
