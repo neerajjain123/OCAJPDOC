@@ -1,16 +1,21 @@
 
-# 1. Java Class Structure
-# 2. Main Method 
-# 3. Package
-# 4. Import
-# 5. Primitive DataType
-# 6. Variable Scope
-# 7. Variable Initialization
-# 8. Primitve Wrapper
+# 1. 
 
 
 
 
 
+
+
+#  Point to remeber
+
+access modifiers in Java helps to restrict the scope of a class, constructor , variable , method or data member. There are four types of access modifiers available in java:
+
+- Default – No keyword required
+- Private
+- Protected
+- Public
+
+<img src=./Access-Modifiers-in-Java.png alt="Access Modifier">
 
 

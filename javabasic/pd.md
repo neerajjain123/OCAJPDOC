@@ -45,3 +45,7 @@ So the rule is:
 
 - Loss of magnitude: explicit cast required;
 - Loss of precision: no cast required.
+
+
+**ValueOf() method in the Wrapper class is always return an object of Wrapper class. while ParseInt/ParseByte/ParseLong methods return a primitive type.**
+
