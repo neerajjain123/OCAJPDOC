@@ -6,12 +6,4 @@
 # 5. [Sorting ArrayList](./sa.md)
 # 6. [Searching ArrayList](./sea.md)
 # 7. [Iterating List](./il.md)
-
-
-
-
-
-
-
-
-
+# 8. [Predicates ](./pre.md)

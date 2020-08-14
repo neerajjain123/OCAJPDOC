@@ -1,5 +1,5 @@
 
-# 1. Question 1.
+# Question 1.
 
 <pre>
 <code>
@@ -32,7 +32,7 @@ What is the output of the program.
 StringBuilder class doesn't override equals(Object) method and hence days.contains(new StringBuilder("Sunday")) returns false. Code inside if-block is not executed and days.size() returns 3.
 
 
-# 1. Question 2.
+# Question 2.
 
 <pre>
 <code>

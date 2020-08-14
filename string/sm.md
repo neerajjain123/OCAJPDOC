@@ -34,6 +34,10 @@ str1.trim(); => creates an empty string "" but str1 still refers to single space
 
 b1 = str1.isEmpty(); assigns false to b1 and last System.out.println statement prints false on to the console.
 
+# Point to remember
+
+**GC did not clean up SCP memory area, since each object created in scp has a reference object managed by JVM internally.**
+
 
 
 
