@@ -25,6 +25,12 @@ When faced with a tough decision that will help you and your team move forward, 
 
 1. Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?  (Manager)
 
+Few days back when jio mart is being lauched, I had given the task to provide search bar service for front end. There were two team whi had given the same task and asked to present the solution in three days. I quicky decided to not only present the solution but do the POC also. But the team were not convinced that it can be done in three days. So I quickly did the researh and found the excellent linked cource on the Elastic search for the search Bar. 
+
+Now I only need to find the infra where we can setup the elastic, Which I used our azure setup with elsatic on it. 
+I arranged test data to be popullated for the demo.
+My team a wrapper service and sample page for 
+
 
 2. Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress?  How were you able to remove the barrier?  What was the outcome? (Manager)
 
