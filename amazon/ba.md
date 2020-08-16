@@ -23,10 +23,10 @@ When faced with a tough decision that will help you and your team move forward, 
 - Still stuck? You ask for help. You don’t let yourself or your team be stuck for days at a time. 
 
 
--	Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?  (Manager)
+1. Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?  (Manager)
 
 
--	Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress?  How were you able to remove the barrier?  What was the outcome? (Manager)
+2. Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress?  How were you able to remove the barrier?  What was the outcome? (Manager)
 
 Story: This is about the time when we stuck with the UPI certification. Where response for the request was not reaching out to the backend services. So we stuck and we lost like a week in the network debugging. 
 
