@@ -11,5 +11,3 @@
 - How do you draw new thinking and innovation out of your team?   Give an example of how your approach led to a specific innovation.  (Manager)
 - Tell me about a time when you have enabled your team/ a team member to implement a significant change or improvement.  (Manager)
 
-
-

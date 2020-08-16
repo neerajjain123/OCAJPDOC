@@ -5,13 +5,13 @@
 ## [Learn and be curious](./lc.md)
 ## [Bias for Action](./ba.md)
 ## [Have backbone. Disagree and Commit](./ha.md)
-## [Ownership]
-## [Invent and Simplify]
-## [Leaders are right, A lot]
-## [Hire and Develop the Best]
-## [Frugality]
+## [Ownership](./own.md)
+## [Invent and Simplify](./is.md)
+## [Leaders are right, A lot](./leader.md)
+## [Hire and Develop the Best](./hdb.md)
+## [Frugality](./fru.md)
 ## [Deliver Result](./dr.md)
-## [Think Big]
-## [Dive Deep]
-## [Insist on the Highest Standard]
-## [Earn Trust]
+## [Think Big](./tb.md)
+## [Dive Deep](./dd.md)
+## [Insist on the Highest Standard](./hs.md)
+## [Earn Trust](./et.md)

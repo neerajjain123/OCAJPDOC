@@ -1,5 +1,6 @@
 
 # 1. We Must have customer obession not the competitor obsession. 
+# 2. Leaders start with the customer and work backwards.  They work vigorously to earn and keep customer trust.  Although leaders pay attention to competitors, they obsess over customers.
 
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
@@ -32,6 +33,8 @@ JEP: I have to explain how JEP in implemented and help us to track the issue
 
 **Answer**
 When we launched UPI and finance service as part myjio for CUG customer, we began with the android and ios native development. But the time to production was really high if the bug fixes is require at the client side. Myjio Playstore push require roughly 3 weeks. So I decided that some of the banking feature we can move to web instead of native. Not only this isgnificantly reduced our time to prodution but also the man power which was for android and ios. 
+
+Alepo cloud deployemtn of services for the admin portal. was sunch an example where we removed bare metal deployment which further reduced the cost to the customer. 
 
 
 - 3.	Tell me about a time a customer wanted one thing, but you felt they needed something else.  How did you approach the situation, what were your actions and what was the end result?
