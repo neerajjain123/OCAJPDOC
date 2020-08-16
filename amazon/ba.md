@@ -36,5 +36,9 @@ Task: NPCI had given us two public Ip's to be whitelisted, and asked us to proid
 
 If seeme under contriol than you are driving fast enough. 
 
+## Another story.
+
+So recently we have enabled IPV6 on our DNS. After enabling IPV6 team tested the applictaion and it worked fine. But the next day status report refelects the number of transaction was significantly low compared to others day. So I asked team to see if there is some or other problem with the application. I asked operation team to open a severity and asked my team to debug. Team didnt find any abnormility at the application side but I was not convinced. My first gues was that it has something to do with the IPV6. By this time my testing team is also started reporting the issue. To conclude it was inddeed tge IPV6 issue, I configured my APN to work obtain only IPV4 Ip and started testing. My application was working smoothly. no issue. And momeent I switched To IPV6 than my application behaving funny. So this time I involved netwokr and load balancer team that we have request droppoff. Later after thier analysis that the Request Rate was configure much lesser for IPV6 than compare to IPV4. 
+
 
 
