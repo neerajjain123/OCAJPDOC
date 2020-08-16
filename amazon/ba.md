@@ -17,7 +17,9 @@ Story: This is about the time when we stuck with the UPI certification. Where re
 
 Task: NPCI had given us two public Ip's to be whitelisted, and asked us to proide two IP's for the for outward and inward traiffic. So network team mapped each one in uni directional manner. In actually ths NPCI actually behaves little diffrent, where request is sent from sender IP to thier receiver and we were expecting resposne from thier reciver to my sender. but eevtually thier reciver was sending response to my receiver IP which was not configured. 
 
-**Whoever tries most things wins. It is about getting out there and tring and putting about thing as POC.many times you fail and learn and keep doing it. Make it ass out of your self. Try and try now and dont waste tine thinking about this. This shortest distance from two point is never a straight line. Make your own team and talk to them and talk to many people. 
+**Whoever tries most things wins. It is about getting out there and tring and putting about thing as POC.many times you fail and learn and keep doing it. Make it ass out of your self. Try and try now and dont waste tine thinking about this. This shortest distance from two point is never a straight line. Make your own team and talk to them and talk to many people. "Do one thing everyday that scare you" Rosebelt** 
+
+If seeme under contriol than you are driving fast enough. 
 
 
 
