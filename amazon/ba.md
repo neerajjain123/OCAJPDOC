@@ -8,6 +8,21 @@
 ## Remove barriers to help your team act on new ideas immediately?
 
 
+## Characteristics of someone having a “Bias for Action”:
+
+When faced with a tough decision that will help you and your team move forward, you don’t avoid that decision. You’re not afraid to step up and make the call. 
+
+- You encourage this same behavior in your direct reports. You let them know you’ll stand behind them if they take a risk that doesn’t work out.
+
+- If you’re missing some key piece of information, you try to get it as quickly as possible. If you can’t, you’re not afraid to move ahead without it.
+
+- You foster an environment of action bias by responding promptly to colleagues looking for information, and always deliver on your promises.
+
+- You roll up your sleeves and remove obstacles, even when it’s “not your job.”
+
+- Still stuck? You ask for help. You don’t let yourself or your team be stuck for days at a time. 
+
+
 -	Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?  (Manager)
 
 
