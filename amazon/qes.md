@@ -191,7 +191,8 @@ While screening resumes, look for the person who is outperoforming their current
 Candiadtes are better if they are not switching jobs very freqyently. 
 Conduct written screening for the key skill. 
 Spend ample time with the candidates when they are onsite. Verify waht is written is resume is correct to check the candidate integritty.
-Ask your peer/Manager review before hiring the candidate 
+Ask your peer/Manager review before hiring the candidate.
+Recognize and act upon poor performance and hiring mistakes quickly
 
 
 
@@ -200,9 +201,119 @@ Ask your peer/Manager review before hiring the candidate
 - **Tell me about someone that you hired that you thought was better than you in a number of areas.  How did you add value to that person?** 
 - **Give me an example of someone who was promoted one or two levels up in the organization – not just because they were a star who would naturally rise, but due to your development/coaching efforts.**
 
+**Answer**
+
+I have hired **** **** like 2 years back and I hired him beacuse in interview not only he answered all my technical questions but also suggested alternate ways to implememt the same. I knew that I want to hire him immedeatlty. He did really well in intial few months. Only trait he had was like he always an indivisual performer and unable to work with the other team. I started mentoring him to start trust other work and assigned him a new comer to the team. ******** had hard time to delegate the task and insated he used to all the talk to himself. Slowly i asked him to give smaller task to his junior so he would be busy and utilized. He learned quickly to delegate the task and start trusting thier subordinate work. I also told him to tab on the quality check. 
 
 
-- Tell me about a time when you had a low performing individual on your team.  How did you deliver feedback to this person?  Did their performance improve or did they leave the organization?  (Manager)
-- 
+- **Tell me about a time when you had a low performing individual on your team.  How did you deliver feedback to this person?  Did their performance improve or did they leave the organization?**
+
+**Answer**
+Disscuss Ashiwini and Shivam cases. 
 
 
+
+## Question 18 (Higest Standard)
+
+- **How do you seek out feedback on your team’s performance?  Give a specific example of how you used feedback you received on your team to drive improvement.** 
+
+**Answer**
+
+While leading the backned team it was the common feedback from FE team were not communication the contract change and sometime the new contarct is not backword comapatible. To solve this problem we intragrated swagger(open API specification) as part of the delivery so and hosted alone with application. SO developer can check is the issue with the contract and resolve immedeately. for the versioning issue, we decided not to hardcode version in service layer, instead we check version at controller layer and service layer will provide the speerate API for each version.  
+
+## Question 19 (Higest Standard)
+
+- **Can you tell me about a time when a team member was not being as productive as you needed?  What was the situation?  What did you do? What was the result?** 
+
+**Answer**
+This was the time when we were working on the Video KYC onboarding and my team lead was not very effective doing the stack holder managment. Lot of technical email/team chat  was not being answered on time. This has been brought to my notice and I collected the incident. I sat with the resource. I was tring to understand the reason and he said that he is having drinking problem which is causing panic attack and he is not able to focus. 
+
+I decided not to push him any further, I asked him to take professional help immedetely. I insisted him if I can speak to his family to update them abnout the situation. He agreed, I allowed him 1 month paid leave and 2 month sabatical, so he can be with family while taking treatment. He resumed after 3 months sober and better. 
+
+
+## Question 20 (Higest Standard)
+- **Describe the process you go through to set specific targets to improve critical areas of your work/team.  Please refer to a specific example.**
+
+**Answer**
+
+We call it Tech improvement and created as task in the sprint. If the task is beyoind the one sprint than we create a subtask for each milestone. untill we complete the whole task. example to such tech imrovements were in last few yaers. 
+
+1. Moving single git repo instead of following enviorment specific branch
+2. 90% code coverage using jnuit before deployment
+3. consolidate loging into kibana dashboiard 
+
+## Question 21 (Think Big)
+
+-	**Tell me about a time you came up with the vision for a (team, product, strategic initiative) when there wasn’t a guiding vision.  What was it?  How did you gain buy-in and drive execution?** 
+-  **Tell me about time you had to develop a product/business model from scratch or when you dramatically changed one in a turnaround situation.**
+
+**Answer**
+While In alpeo and working with the sales team, I realized that most of prospect were tier 2 and tier 3 with small capex to start the bussines. These customer can not sfford bare metal deployemnt and onsite engineer cost. So I took it on myself to build and deploy soution on AWS and integrate with On primes componenet. This helped rcomplany two ways. first we were able to save the server cost and second we decued to onsite engineer cost significanly. The best outcome to we were able to traget customer with smaller capex which was not the scenerio earlier. 
+
+
+## Question 21 (Think Big)
+
+-	**Tell me about encouraging or enabling a member of your team to take big risk.  How did you balance the risk to the business with possible positive outcome for the organization and opportunity for learning for your direct report?** 
+
+**Answer**
+
+This is story about the time when we deceided to move Monolethic application to microservices. WIt was a challenge since this was my project on microservices. This required lot of reading and rearchitecting the application. To metegate the risk we use phased approch and memoved one or two module at a time. 
+
+
+## Question 22 (Bias for Action)
+
+1. **Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?**
+**Tell me about a time when you have made decision quickly.**
+
+**Answer**
+
+Few days back when jio mart is being lauched, I had given the task to provide search bar service for front end. There were two team whi had given the same task and asked to present the solution in three days. I quicky decided to not only present the solution but do the POC also. But the team were not convinced that it can be done in three days. So I quickly did the researh and found the excellent linked cource on the Elastic search for the search Bar. 
+
+Now I only need to find the infra where we can setup the elastic, Which I used our azure setup with elsatic on it. 
+I arranged test data to be popullated for the demo.
+My team a wrapper service and sample page for 
+
+
+## Question 22 (Bias for Action)
+
+
+- **Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress?  How were you able to remove the barrier?  What was the outcome?**
+
+**Answer**
+
+Story: This is about the time when we stuck with the UPI certification. Where response for the request was not reaching out to the backend services. So we stuck and we lost like a week in the network debugging. 
+
+Task: NPCI had given us two public Ip's to be whitelisted, and asked us to proide two IP's for the for outward and inward traiffic. So network team mapped each one in uni directional manner. In actually ths NPCI actually behaves little diffrent, where request is sent from sender IP to thier receiver and we were expecting resposne from thier reciver to my sender. but eevtually thier reciver was sending response to my receiver IP which was not configured. 
+
+**Whoever tries most things wins. It is about getting out there and tring and putting about thing as POC.many times you fail and learn and keep doing it. Make it ass out of your self. Try and try now and dont waste tine thinking about this. This shortest distance from two point is never a straight line. Make your own team and talk to them and talk to many people. "Do one thing everyday that scare you" Rosebelt** 
+
+
+## Another story.
+
+So recently we have enabled IPV6 on our DNS. After enabling IPV6 team tested the applictaion and it worked fine. But the next day status report refelects the number of transaction was significantly low compared to others day. So I asked team to see if there is some or other problem with the application. I asked operation team to open a severity and asked my team to debug. Team didnt find any abnormility at the application side but I was not convinced. My first gues was that it has something to do with the IPV6. By this time my testing team is also started reporting the issue. To conclude it was inddeed tge IPV6 issue, I configured my APN to work obtain only IPV4 Ip and started testing. My application was working smoothly. no issue. And momeent I switched To IPV6 than my application behaving funny. So this time I involved netwokr and load balancer team that we have request droppoff. Later after thier analysis that the Request Rate was configure much lesser for IPV6 than compare to IPV4. 
+
+
+
+## Question 23 (Frugality)
+
+- **Give an example of a time when you challenged your team to come up with more efficient solution or process.  What drove the request?  How did you help?**
+
+**Answer**
+
+Recnetly I have asked to deploy one of our application for on azure cloud for the Sales Demo. While working on the architecture, I ahd a choice to use the APIGw which has a little higher hourly cost instaed of running web server. Rather than using azure gw, I deceide to use ngnix server along weith netflix zuul APIGW which is opensource. 
+
+## Question 23 (Earn Trust)
+
+- **Tell me about a time your team’s goals were out of alignment with another team on which you relied to attain a key resource.  How did you work with the other team?  Were you able to achieve your goals?**
+
+## Answer.
+
+As a channle backend we relied on many backedn services and when were we designing the BBPS (bill payment) services, we need to consume. This team was also prallally developing their service which was casuing the issue while consuming, Team has came to syaing that we are not ready to move ahead sue this intermiteent issue. I decide to instead of esclating, lets talk to the team and understand the conytsraint. They explained thier situation and time commitment we decided to work together as team. We created a war room and worked few days in collobarted manner and able to deliver the project. 
+
+## Question 24 (Dive deep)
+
+Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out.  Who did you talk with and what information proved most valuable?  How did you use that information to help solve the problem? 
+
+
+
+- 	When your direct reports are presenting a plan or issue to you, how do you know if the underlying assumptions are the correct ones?  What actions do you take to validate assumptions or data?   (Manager)
