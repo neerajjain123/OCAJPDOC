@@ -26,7 +26,8 @@ This is the recent incident I had with one of the VP in my company and he was tr
 - In your opinion, what is the most effective way to evaluate the quality of your product or service to your internal /external customer?  Give an example of a time when you used these measures to make a decision.  (Manager)
 
 **Answer** 
-JEP: I have to explain how JEP in implemented and help us to track the issue 
+
+
 
 
 - What changes have you implemented in your current department to meet the needs of your customers?  What has been the result?  (Manager)
@@ -40,8 +41,9 @@ Alepo cloud deployemtn of services for the admin portal. was sunch an example wh
 - 3.	Tell me about a time a customer wanted one thing, but you felt they needed something else.  How did you approach the situation, what were your actions and what was the end result?
 
 **Answer** 
-Tell the story of Hero journey recharge scnerio. 
+This is the inceident when my product team came to me where thay want to use MyJio UPI payment option while performing the recharge option. Issue was that if you on the recharge page and send a collect request to jio id id exist. we could do it but the problem was if customer move from rechrage to UPI page than there was no return path. 
 
+What I propsed to use the pay feature instaed of collect, after reacharge amount is selected and customer decided to make payment than lets open the send  money page with amount VPA pre popuulated. This made customer journey really smooth. No switching back and fourth and you complete the payment.
 
 
 
