@@ -58,9 +58,17 @@ MTN camerroon was the best example where we were deploying the payment gateway f
 
 ## Question 6 (co)
 
-- **Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?** or 
-- **Tell the story of the last time you had to apologize to someone.**
+- **Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?** 
 
+**Answer**
+
+This is when I was working with ETB and we ceakced a deal to dpeloy AAA solution for their DSL/fiber customer. During the sales we indetofoed the integration and project was closed. I as delivery lead moved to columbia with the team for UAT. during onsite we got to know that we have got new integration componeent as sandwine DPI. This integration for us was not only configuration buit require some development as well to consume their API. This was clearly a chnage request for me so I raised it to the client that this will requir a CR and I need to get the approval from sales VP before I go ahead with the integration. Additional work was for a week for development and testing which was impacting out onsite plan and timeline so I had to update the managament about the chnages. 
+
+But before that my disscussion with the client to let them know the new chnages in timeline and onsite plan due to the new requimrnet and he agreed a week delay but was not ready to pay for the new development. Than I spoke to my manager which was sales VP at time and got the approval and we agreed that we need to raise the CR for sure and waveoff the cost. This was wini win for the both the team. 
+
+
+
+- **Tell the story of the last time you had to apologize to someone.**
 
 **Answer**
 
@@ -73,7 +81,7 @@ This is the recent incident I had with one of the VP in my company and he was tr
 
 **Answer** 
 
-TBD
+Whenw we release our first version of the UPI application where every login require to give your mpin to accesws dashboard. But we have not seen lot of user login to the dashboard and aborting the login and number of trasaction were really low. so we deicede to let go the app mpin screen since trasnaction is already protected with the UPIN. 
 
 ## Question 8 (co)
 
@@ -263,7 +271,7 @@ This is story about the time when we deceided to move Monolethic application to 
 ## Question 22 (Bias for Action)
 
 1. **Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?**
-**Tell me about a time when you have made decision quickly.**
+
 
 **Answer**
 
@@ -273,6 +281,10 @@ Now I only need to find the infra where we can setup the elastic, Which I used o
 I arranged test data to be popullated for the demo.
 My team a wrapper service and sample page for 
 
+
+**Tell me about a time when you have made decision quickly.**
+
+This is the time when I was working in alepo and I had closed the sales 
 
 ## Question 22 (Bias for Action)
 
