@@ -37,10 +37,13 @@ I had a lot of thoughts which I could not put into words due to lack of sufficie
 
 **Answer** 
 
-Strat my day with the opertaion team call to check if there any issue in production which needs to be taken care on priorpties. Go over the metrics and identify if there is any anomaly in the production.
-Than I have usual call with the my devloper to tarck the ongoing spring task. Identify the issue/blocker where my intevention is needed. 
-Than I have another call with the whole team which includes my tester/ L3 support/ Product team is involved. Identify the issue/blocker where my intevention is needed.
-I start working on the task for the day. 
+Strat my day with the opertaion team call to check if there any issue in production which needs to be taken care on priorpties. 
+Go over the metrics and identify if there is any anomaly in the production.
+I have usual spcrum call with different team for around 2 hours. 
+Update and reveiw scrum board with the day to day updates. 
+Meeting with various stack holders for ongoing integrations. 
+Creating new design for the next sprint.
+
 
 ## Question 4
 
@@ -90,9 +93,6 @@ Whenw we release our first version of the UPI application where every login requ
 **Answer**
 When we launched UPI and finance service as part myjio for CUG customer, we began with the android and ios native development. But the time to production was really high if the bug fixes is require at the client side. Myjio Playstore push require roughly 3 weeks. So I decided that some of the banking feature we can move to web instead of native. Not only this isgnificantly reduced our time to prodution but also the man power which was for android and ios. 
 
-**Another Answer**
-
-While In alpeo and working with the sales team, I realized that most of prospect were tier 2 and tier 3 with small capex to start the bussines. These customer can not sfford bare metal deployemnt and onsite engineer cost. So I took it on myself to build and deploy soution on AWS and integrate with On primes componenet. This helped rcomplany two ways. first we were able to save the server cost and second we decued to onsite engineer cost significanly. The best outcome to we were able to traget customer with smaller capex which was not the scenerio earlier. 
 
 ## Question 9 (co)
 
