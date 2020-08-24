@@ -45,13 +45,13 @@ Meeting with various stack holders for ongoing integrations.
 Creating new design for the next sprint.
 
 
-## Question 4
+## Question 5
 
 - **Tell me about of time when you had a difficult situation with an employee.**
 
 <img src="ques4.png">
 
-## Question 5
+## Question 6
 
 - **Who was your most difficult customer?** or
 - **Tell me about a time when you went above and beyond the call of duty for a customer.  Why did you take the action you did?  What was the outcome?**
@@ -59,7 +59,7 @@ Creating new design for the next sprint.
 **Answer** 
 MTN camerroon was the best example where we were deploying the payment gateway for their wifi on demand services. They had a genuine problem where around midnight there were serge in the payment failures and consumer were impacted. They reported the issue to my opeartion team which further dealyed the resolution since team shugged it off saying that issue was at the bakend system and API SLA is breaching. Than issue escalated and came to me. I looked into the problem and relaized that it might not be our issue but certianly the platform as a whole. When we debug the problem we realized that OCS(Ericssion server) was breaching the SLA but issue was not with the Ericssion but with the network latency. Later it was identified thet nwtwork were congested since DB backup between two sites and using the same network. 
 
-## Question 6 (co)
+## Question 7 (co)
 
 - **Give me an example of a time when you did not meet a client’s expectation. What happened, and how did you attempt to rectify the situation?** 
 
@@ -70,7 +70,7 @@ This is when I was working with ETB and we ceakced a deal to dpeloy AAA solution
 But before that my disscussion with the client to let them know the new chnages in timeline and onsite plan due to the new requimrnet and he agreed a week delay but was not ready to pay for the new development. Than I spoke to my manager which was sales VP at time and got the approval and we agreed that we need to raise the CR for sure and waveoff the cost. This was wini win for the both the team. 
 
 
-
+## Question 8 (co)
 - **Tell the story of the last time you had to apologize to someone.**
 
 **Answer**
@@ -78,7 +78,7 @@ But before that my disscussion with the client to let them know the new chnages 
 This is the recent incident I had with one of the VP in my company and he was tring to add kotak account in the UPI but it was not working. So i asked him if he can try some other bank and he did and it worked. After I came back home and my wife has account with kotak. So I onboarded her and tried add kotak bank accountand it failed. This time I asked my operation team to analyse the logs and identify the problem and found that NPCI is not giving the data in proper format. Since we can not test this in lower enviormnent, all we had to handle the scenerio in production. 
 
 
-## Question 7 (co)
+## Question 9 (co)
 
 - **In your opinion, what is the most effective way to evaluate the quality of your product or service to your internal /external customer?  Give an example of a time when you used these measures to make a decision.** 
 
@@ -86,7 +86,7 @@ This is the recent incident I had with one of the VP in my company and he was tr
 
 Whenw we release our first version of the UPI application where every login require to give your mpin to accesws dashboard. But we have not seen lot of user login to the dashboard and aborting the login and number of trasaction were really low. so we deicede to let go the app mpin screen since trasnaction is already protected with the UPIN. 
 
-## Question 8 (co)
+## Question 10 (co)
 
 - **What changes have you implemented in your current department to meet the needs of your customers?  What has been the result?**
 
@@ -94,7 +94,7 @@ Whenw we release our first version of the UPI application where every login requ
 When we launched UPI and finance service as part myjio for CUG customer, we began with the android and ios native development. But the time to production was really high if the bug fixes is require at the client side. Myjio Playstore push require roughly 3 weeks. So I decided that some of the banking feature we can move to web instead of native. Not only this isgnificantly reduced our time to prodution but also the man power which was for android and ios. 
 
 
-## Question 9 (co)
+## Question 11 (co)
 
 - **Tell me about a time a customer wanted one thing, but you felt they needed something else.  How did you approach the situation, what were your actions and what was the end result?**
 
@@ -103,60 +103,108 @@ This is the inceident when my product team came to me where thay want to use MyJ
 
 What I propsed to use the pay feature instaed of collect, after reacharge amount is selected and customer decided to make payment than lets open the send  money page with amount VPA pre popuulated. This made customer journey really smooth. No switching back and fourth and you complete the payment.
 
-## Question 10 (ownership)
+## Question 12 (ownership)
 
 - **Tell me about an initiative you undertook because you saw that it could benefit the whole company or your customers, but wasn’t within any group’s individual responsibility so nothing was being done.**
 
 **Answer** 
 While In alpeo and working with the sales team, I realized that most of prospect were tier 2 and tier 3 with small capex to start the bussines. These customer can not sfford bare metal deployemnt and onsite engineer cost. So I took it on myself to build and deploy soution on AWS and integrate with On primes componenet. This helped rcomplany two ways. first we were able to save the server cost and second we decued to onsite engineer cost significanly. The best outcome to we were able to traget customer with smaller capex which was not the scenerio earlier. 
 
-## Question 11 (ownership)
+## Question 13 (ownership)
 
 -	**How do you ensure your team stays connected to the company vision and the bigger picture?  Give an example of when you felt a team or individual goal was in conflict with the company vision.  What did you do?**
 
 **Answer** 
 
-TBD
+1. Reinforce the company vision by tying it to team and individual goals.
+2. Promote the company vision by always making sure it’s visible.
+3. Share success stories that realize the company vision.
 
-## Question 12 (Invent and simplify)
+So last year my manager called and he said that we have 2 million reacharge everyday and comapny focus is avoid .5% percent of churnrate. Company is looking for the avoding chruning payemnt by setting up recurring payment option using autotop. resposibilites on me was to deliver recurring payment option as part UPI/wallet.
+
+We can achieve recurring payment using UPI/DSB/Wallet option. This where I alinged team delivers to the company vision to by setting up the goals to deliver features as a part of solution.
+
+
+## Question 14 (Invent and simplify)
 
 - **How do you draw new thinking and innovation out of your team? Give an example of how your approach led to a specific innovation.**
+
+1. ecncourage team to attched comunnities disscussion within organization.
+2. Ask team to particiapate in the techtalk across the globes. 
+3. Allow team to make mistakes and learn. Focus on the constructive critisiam. 
+4. Find time to brainstorm with the team and have a healty disscussion for new ideas. 
+5. Reward the new ideas even a apprceation mail is good enough for encouragement. 
+
+
+## Question 15 (Invent and simplify)
 - **Tell me about a time when you have enabled your team/ a team member to implement a significant change or improvement.**
 
 **Answer** 
 
 When we fully migrated from molethic to microservices, my operation team had a challenge to track a complete end to end session request. Like eralier thay had to traverse the multiple log files to get the user session logs. This was causing  a significant delay in the debigging. To overcome this issue Team gave them an automate script to find session logs. But that was not somethign I was not very keen and tring for the better solution. So I did my research and deplyed Kafka/Elastic/Kibana stack for log analysis. After which we invent and designed lot of other metrics for monitoring.
 
+Monlethic to Microservice:
+1. To simplify the architecture so that code can be moduleraized and interface are well defined. 
+2. Moving from Spring MVC to boot gave us the oppoutunity reduced rather simplify the code.
+3. Moved from Bare metal  to Kubernetis for auto deployemnt. 
+4. Started using Junit and karate for unit and funcational testing. 
+5. Started Elastic/Kibana stack to trace the consolidated logs. 
 
-**Another Answer** 
 
-This is the inceident when my product team came to me where thay want to use MyJio UPI payment option while performing the recharge option. Issue was that if you on the recharge page and send a collect request to jio id id exist. we could do it but the problem was if customer move from rechrage to UPI page than there was no return path. 
+## Question 16 (Invent and simplify)
+-	**Tell me about an out-of-the-box idea you had or decision you made that had a big impact on your business.**
 
-What I propsed to use the pay feature instaed of collect, after reacharge amount is selected and customer decided to make payment than lets open the send  money page with amount VPA pre popuulated. This made customer journey really smooth. No switching back and fourth and you complete the payment.
+Creating the BOM  for the softare sales was something I did while working with sales team. it was designed to get the idea about the initial ball park figure of project. 
+It was an excel template where sled team need to fill following. 
+
+Selelct the list of billing component (PCRF, AAA, OCS, DHCP)
+Number of susbcriber for licenense
+Interface require for PCRf: Gx, Gy, Sh, Rx, Radius
+DPI
+PCEF
+any GUI is require:
+Number Of usecases:
 
 
-## Question 13 (Are right Alot)
+## Question 17 (Are right Alot)
 
 - **Tell me about your failure/mistake/ error in judgement.**
 
 **Answer** 
 
-Three years back when I joined Jio, I have asssigned a very critical feature which need to go in production. In Jio we have three envoirment , SIT/Pre prod and Prod. as SDM, it was my resposility to get the QA signoff and create a realea request for SIT/PP which I did. Now when I raised the Prod Rlease request, I have asked to provide the security signoff as well. As a first timer I was not aware about the infosec signoff is alos needed. Due this mistake We have a week but I learned my lesson and did not repeated the same mistake. 
+Three years back when I joined Jio, I have asssigned a very critical feature which need to go in production. In Jio we have three envoirment , SIT/Pre prod and Prod. as SDM, it was my resposility to get the QA signoff and create a realea request for SIT/PP which I did. Now when I raised the Prod Rlease request, I have asked to provide the security signoff as well. As a first timer I was not aware about the infosec signoff is alos needed. Due this mistake we have a week but I learned my lesson and did not repeated the same mistake.
 
-## Question 14 (Are right Alot)
+
+**Another Answer** 
+While working with MTN cameroon wimax solution I was reposnsible to write SOW and get the customer signoff before sending to the project team. Since this was my first project I created the SOW and and send it to customer review. After first review I have forward the SOW to the project team. I made a mistake to get the final signoff before sending it to the project manager. Later when team went to the UAT, cutomer were requesting the feature for location based charging. Out of the feature for location was not enough execute the UAT and needed a quite good development. Customer said that they never signed off the SOW and insited on the feature from day one. 
+
+My mistake cost me almost 3 weeks of extra work for the team and I almost lost my job. But I learned my lession and only only I started taking isgnoff from the SOW but UAT testcases need to be agreed and signed off before project handover to the prokject manager.
+
+
+## Question 18 (Are right Alot)
+
+- **Tell me about a decision for which data and analysis weren’t sufficient to provide the right course and you had to rely on your judgment and instincts.  Give me two to three examples.  They don’t have to be big strategic decisions – could be big or small.**
+
+**Answer** 
+
+During the JioMart intgration, i had given the oppoutunity to build the infrastruture for myjio. I had option to build the complete infra on barmetal or go for the complete cloud solution. Not sure what percent of myjio user will opt for the jiomart, I had to take a call without any confirmed numbers so I decied to build complete infra on the cloud considering it would be easier to scale if there is any issue in future. 
+
+
+
+## Question 19 (Are right Alot)
 
 - **Tell me a time when you disagree with the boss**
 
 **Answer**
 
-When we aere doing the designing for Jiomart with myjio and I want to leverage exiting authentication using Oauth token but My boss has different approach where he was suggesting to have a encrypted JWT token stored in device which can be used for authentication. ofcource his approach was to save few http calls but compromising the security. We had a meeting and he recejcted the idea of using OAuth. So I decided not to interupt him in meeting and decided to write one email stating what is risk if deceided to have JMT token. I explained the JWT must only use to encrypt transit data but should be subsititued for authentication. How the token can be used for identify theft. 
+When we are doing the designing for Jiomart with myjio and I want to leverage exiting authentication using Oauth token but My boss has different approach where he was suggesting to have a encrypted JWT token stored in device which can be used for authentication. ofcource his approach was to save few http calls but compromising the security. We had a meeting and he recejcted the idea of using OAuth. So I decided not to interupt him in meeting and decided to write one email stating what is risk if deceided to have JMT token. I explained the JWT must only use to encrypt transit data but should be subsititued for authentication. How the token can be used for identify theft. 
 
 Another factor which we need to consider about rotation of secret keys being shared with all other systems. If any of the backend key is compromised than there is no quick way to recover. In such scenario new keys need to be generated and given to the backend team and whole process require source code level changes to accommodate new keys. 
 
 I also provide the approcal I was suggesting with the detailed call flow. And he agrred with what I was saying. 
 
 
-## Question 15 (Are right Alot)
+## Question 20 (Are right Alot)
 
 -	**Tell me about a business model decision or key technology decision or other important strategic decision you had to make for which there was not enough data or benchmarks.  In the absence of all the data, what guided your choice and how did you make the call? (follow up with the alternatives considered and how/why they were ruled out in favor of the path taken, what was the risk mitigation strategy? Outcome?  Ask for another example and potentially a third until you are sure this is a pattern and not a one off).**
 
@@ -170,58 +218,19 @@ While In alpeo and working with the sales team, I realized that most of prospect
 This helped complany two ways. first we were able to save the server cost and second we decued to onsite engineer cost significanly. The best outcome to we were able to traget customer with smaller capex which was not the scenerio earlier. 
 
 
+## Question 21 (Higest Standard)
 
-
-## Question 15 (learn and innovate)
-
-- **How do you draw new thinking and innovation out of your team? Give an example of how your approach led to a specific innovation.** 
-- **Tell me about a time when you have enabled your team/ a team member to implement a significant change or improvement.** 
+- **1.	Tell me about a time when you have been unsatisfied with the status quo.  What did you do to change it?  Were you successful?**
 
 **Answer**
 
-There are few things which I enforce my team to learn and inovate. 
+1. In myjio all the Rest webservice is of type POST and my peer told me to do the same and every one has the same reason that appsec did not approve other API's implemetation. I was not convinced with the answer and first I did was to meet the infosec team and get the actual cause. Appsec denied putting restriction and said the as long as API's are secured, we are OK. I was glad to hear that and I designed my services is complete restful manner and I also infirmed my Mamanger about the incorrect information is being passed from other SDM which might not be correct. 
 
-30 minute of weekly linked learning every week. 
-Every friday we have show & tell session where team need to prepare and present something new which they learn in the week.
-Recently we were exploring elastic search engine we got the idea to build the serch bar feature in myjio. Currently myjio is a super app and having multiple mini apps but thesearch feature was not consolidated. We are in the process of deliving search bar where it will work as universal search and open the miniapp based the search tag. 
-
-
-## Question 16 (Hire and develop Best)
-
-- **Tell me about your hiring process when you are hiring key positions such as direct reports.  Where do you go for talent?  What resources do you employ?  What are the steps in the process?  What traits do you seek that will tell you the candidate will be successful on the team apart from the obvious hard skills?  [probe on how they assess specific things in an interview, such as integrity, who does the references?  Do they do them?  How do they use them?}**
-
-
-**Answer**
-First thing I do is to create a well strcutured job descrition and year the experince. See if someone can be promoted internally and hire with smaller experience.  
-Look for the somone you know with whom you have worked and willling to take it. 
-Ask for the refferal from who is turned out to be very good hire. 
-While screening resumes, look for the person who is outperoforming their current role. Say a developer is also doing the designing  or a lead is involved in system architecture. 
-Candiadtes are better if they are not switching jobs very freqyently. 
-Conduct written screening for the key skill. 
-Spend ample time with the candidates when they are onsite. Verify waht is written is resume is correct to check the candidate integritty.
-Ask your peer/Manager review before hiring the candidate.
-Recognize and act upon poor performance and hiring mistakes quickly
+2. Moving from Multi repo to single repo. across all the enviorment. 
 
 
 
-## Question 17 (Hire and develop Best)
-
-- **Tell me about someone that you hired that you thought was better than you in a number of areas.  How did you add value to that person?** 
-- **Give me an example of someone who was promoted one or two levels up in the organization – not just because they were a star who would naturally rise, but due to your development/coaching efforts.**
-
-**Answer**
-
-I have hired **** **** like 2 years back and I hired him beacuse in interview not only he answered all my technical questions but also suggested alternate ways to implememt the same. I knew that I want to hire him immedeatlty. He did really well in intial few months. Only trait he had was like he always an indivisual performer and unable to work with the other team. I started mentoring him to start trust other work and assigned him a new comer to the team. ******** had hard time to delegate the task and insated he used to all the talk to himself. Slowly i asked him to give smaller task to his junior so he would be busy and utilized. He learned quickly to delegate the task and start trusting thier subordinate work. I also told him to tab on the quality check. 
-
-
-- **Tell me about a time when you had a low performing individual on your team.  How did you deliver feedback to this person?  Did their performance improve or did they leave the organization?**
-
-**Answer**
-Disscuss Ashiwini and Shivam cases. 
-
-
-
-## Question 18 (Higest Standard)
+## Question 22 (Higest Standard)
 
 - **How do you seek out feedback on your team’s performance?  Give a specific example of how you used feedback you received on your team to drive improvement.** 
 
@@ -247,8 +256,11 @@ I decided not to push him any further, I asked him to take professional help imm
 We call it Tech improvement and created as task in the sprint. If the task is beyoind the one sprint than we create a subtask for each milestone. untill we complete the whole task. example to such tech imrovements were in last few yaers. 
 
 1. Moving single git repo instead of following enviorment specific branch
+1. Always raise MR for master merge
+2. SonarQube integration for every build.
 2. 90% code coverage using jnuit before deployment
-3. consolidate loging into kibana dashboiard 
+3. Integration Karate Test case.
+3. consolidate loging into kibana dashboard 
 
 ## Question 21 (Think Big)
 
@@ -329,3 +341,51 @@ Tell me about a time you were trying to understand a problem on your team and yo
 
 
 - 	When your direct reports are presenting a plan or issue to you, how do you know if the underlying assumptions are the correct ones?  What actions do you take to validate assumptions or data?   (Manager)
+
+
+## Question 21 (learn and innovate)
+
+- **How do you draw new thinking and innovation out of your team? Give an example of how your approach led to a specific innovation.** 
+- **Tell me about a time when you have enabled your team/ a team member to implement a significant change or improvement.** 
+
+**Answer**
+
+There are few things which I enforce my team to learn and inovate. 
+
+30 minute of weekly linked learning every week. 
+Every friday we have show & tell session where team need to prepare and present something new which they learn in the week.
+Recently we were exploring elastic search engine we got the idea to build the serch bar feature in myjio. Currently myjio is a super app and having multiple mini apps but thesearch feature was not consolidated. We are in the process of deliving search bar where it will work as universal search and open the miniapp based the search tag. 
+
+
+## Question 16 (Hire and develop Best)
+
+- **Tell me about your hiring process when you are hiring key positions such as direct reports.  Where do you go for talent?  What resources do you employ?  What are the steps in the process?  What traits do you seek that will tell you the candidate will be successful on the team apart from the obvious hard skills?  [probe on how they assess specific things in an interview, such as integrity, who does the references?  Do they do them?  How do they use them?}**
+
+
+**Answer**
+First thing I do is to create a well strcutured job descrition and year the experince. See if someone can be promoted internally and hire with smaller experience.  
+Look for the somone you know with whom you have worked and willling to take it. 
+Ask for the refferal from who is turned out to be very good hire. 
+While screening resumes, look for the person who is outperoforming their current role. Say a developer is also doing the designing  or a lead is involved in system architecture. 
+Candiadtes are better if they are not switching jobs very freqyently. 
+Conduct written screening for the key skill. 
+Spend ample time with the candidates when they are onsite. Verify waht is written is resume is correct to check the candidate integritty.
+Ask your peer/Manager review before hiring the candidate.
+Recognize and act upon poor performance and hiring mistakes quickly
+
+
+
+## Question 17 (Hire and develop Best)
+
+- **Tell me about someone that you hired that you thought was better than you in a number of areas.  How did you add value to that person?** 
+- **Give me an example of someone who was promoted one or two levels up in the organization – not just because they were a star who would naturally rise, but due to your development/coaching efforts.**
+
+**Answer**
+
+I have hired **** **** like 2 years back and I hired him beacuse in interview not only he answered all my technical questions but also suggested alternate ways to implememt the same. I knew that I want to hire him immedeatlty. He did really well in intial few months. Only trait he had was like he always an indivisual performer and unable to work with the other team. I started mentoring him to start trust other work and assigned him a new comer to the team. ******** had hard time to delegate the task and insated he used to all the talk to himself. Slowly i asked him to give smaller task to his junior so he would be busy and utilized. He learned quickly to delegate the task and start trusting thier subordinate work. I also told him to tab on the quality check. 
+
+
+- **Tell me about a time when you had a low performing individual on your team.  How did you deliver feedback to this person?  Did their performance improve or did they leave the organization?**
+
+**Answer**
+Disscuss Ashiwini and Shivam cases. 
