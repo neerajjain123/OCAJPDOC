@@ -20,6 +20,8 @@ I am self driven person who believes in mentoring and empowering people. I am no
 
 Amazon is the  most customer centric company and goes extra mile for cutsomer satisfaction. While working with jio I have learned how to strive for excellence and improve our service to meet end customer need. If I have the oppurtunity, I will contribute to achive higher custiomer satisfaction. 
 
+Jio phiolospy is same as amazon like work on low or no profit to capture the maket share.
+
 Another aspect I can contribute in Amazon success story with my ability to mentor and empower team and further learn and innovate. 
 
 
@@ -238,7 +240,7 @@ This helped complany two ways. first we were able to save the server cost and se
 
 While leading the backned team it was the common feedback from FE team were not communication the contract change and sometime the new contarct is not backword comapatible. To solve this problem we intragrated swagger(open API specification) as part of the delivery so and hosted alone with application. SO developer can check is the issue with the contract and resolve immedeately. for the versioning issue, we decided not to hardcode version in service layer, instead we check version at controller layer and service layer will provide the speerate API for each version.  
 
-## Question 19 (Higest Standard)
+## Question 23 (Higest Standard)
 
 - **Can you tell me about a time when a team member was not being as productive as you needed?  What was the situation?  What did you do? What was the result?** 
 
@@ -248,7 +250,7 @@ This was the time when we were working on the Video KYC onboarding and my team l
 I decided not to push him any further, I asked him to take professional help immedetely. I insisted him if I can speak to his family to update them abnout the situation. He agreed, I allowed him 1 month paid leave and 2 month sabatical, so he can be with family while taking treatment. He resumed after 3 months sober and better. 
 
 
-## Question 20 (Higest Standard)
+## Question 24 (Higest Standard)
 - **Describe the process you go through to set specific targets to improve critical areas of your work/team.  Please refer to a specific example.**
 
 **Answer**
@@ -262,7 +264,7 @@ We call it Tech improvement and created as task in the sprint. If the task is be
 3. Integration Karate Test case.
 3. consolidate loging into kibana dashboard 
 
-## Question 21 (Think Big)
+## Question 25 (Think Big)
 
 -	**Tell me about a time you came up with the vision for a (team, product, strategic initiative) when there wasn’t a guiding vision.  What was it?  How did you gain buy-in and drive execution?** 
 -  **Tell me about time you had to develop a product/business model from scratch or when you dramatically changed one in a turnaround situation.**
