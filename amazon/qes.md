@@ -5,11 +5,9 @@
 
 **Answer** 
 
-Hi .., Myself Neeraj, Having 15+ year of industry experience, I started my carrier as a developer but now I am managing people for past 7 years. Most of my expeirnece in is Telco and finance. Currently I am working with Relience Jio as enginerring Manager. I have involved in the delivery of two very critical project UPI and Mobile banking as part of Myjio. I also played an architect role while delivering the solution. 
+Hi, Myself Neeraj, I am having 15+ years of industry experience, I started my carrier as a developer but now I am managing people for the past 7 years. Most of my experience is in the Telco and finance domain. Currently I am working with Reliance Jio as engineering Manager plus solution architect. I am currently involved in the delivery of two very critical projects, UPI and Mobile banking.  
 
-I have good exposer in cross funtional stack holder management, defining project scope and translating them to the funcational requirments for further developmet. 
-
-I am self driven person who believes in mentoring and empowering people. I am not afraid of taking risk and innovate.  
+I have good exposer working with the cross-functional stack holders, defining project scope, and translating them to the functional requirements for further development. I am a self-driven person who believes in mentoring and empowering people. I am not afraid of taking risks and believes in innovation.
 
 
 ## Question 2.
@@ -18,33 +16,38 @@ I am self driven person who believes in mentoring and empowering people. I am no
 
 **Answer** 
 
-Amazon is the  most customer centric company and goes extra mile for cutsomer satisfaction. While working with jio I have learned how to strive for excellence and improve our service to meet end customer need. If I have the oppurtunity, I will contribute to achive higher custiomer satisfaction. 
+To answer this, I think, I have two aspects where I can contribute to Amazon if I get the opportunity. The first is to having long term vision and ignoring the short term gain. Being in Jio I have seen, not having any profits for years but building your Market share and gaining the customer trust and later capitalize it. 
 
-Jio phiolospy is same as amazon like work on low or no profit to capture the maket share.
+Amazon is the most customer-centric company and goes extra mile for customers satisfaction. While working with jio I have learned how to strive for excellence and improve our service to meet the end-customer needs. If I have given the opportunity, I will contribute to achieving higher customer satisfaction. 
 
-Another aspect I can contribute in Amazon success story with my ability to mentor and empower team and further learn and innovate. 
+Another aspect I can contribute to Amazon's success story with my ability to mentor and empower the team and further learn and innovate. 
 
 
 ## Question 3
 
-- **What is your weekneess?**
+- **What is your weakness?**
 
 **Answer** 
 
-I had a lot of thoughts which I could not put into words due to lack of sufficient vocabulary or scared of giving a false impression or for the fear of not being able to communicate "exactly" how I framed it in my mind.
+I feel at times I am impulsive and give knee jerk reaction in certain situation which limit my decision-making capacity. It mostly happens when I see mean email in my inbox. People gets a perception that I cant handle tricky situation and not able to think fast and effectively. 
 
-## Quetsion 4
+However, I am working on it and started doing things that are helping me. like I must consider if the battle I am about to fall into is worth fighting for, or not. I am also reading a book Mind Over Matter by Peter Hollins. 
+
+I had a lot of thoughts that I could not put into words due to a lack of sufficient vocabulary or scared of giving a false impression or for the fear of not being able to communicate "exactly" how I framed it in my mind. 
+
+## Question 4
 
 - **what is your daily routine.**
 
 **Answer** 
 
-Strat my day with the opertaion team call to check if there any issue in production which needs to be taken care on priorpties. 
-Go over the metrics and identify if there is any anomaly in the production.
-I have usual spcrum call with different team for around 2 hours. 
-Update and reveiw scrum board with the day to day updates. 
+I start my day with the operation team call to check if there any issue in production which needs to be taken care on priorities. 
+Go over the metrics and identify if there is an anomaly in the production.
+I have a usual scrum call with different teams for around 2 hours. 
+Update and review scrum board with the day to day updates. 
 Meeting with various stack holders for ongoing integrations. 
-Creating new design for the next sprint.
+Creating design and functional interface for the next sprint.
+Having evening sync up and close for the day. 
 
 
 ## Question 5
@@ -273,7 +276,7 @@ We call it Tech improvement and created as task in the sprint. If the task is be
 While In alpeo and working with the sales team, I realized that most of prospect were tier 2 and tier 3 with small capex to start the bussines. These customer can not sfford bare metal deployemnt and onsite engineer cost. So I took it on myself to build and deploy soution on AWS and integrate with On primes componenet. This helped rcomplany two ways. first we were able to save the server cost and second we decued to onsite engineer cost significanly. The best outcome to we were able to traget customer with smaller capex which was not the scenerio earlier. 
 
 
-## Question 21 (Think Big)
+## Question 26 (Think Big)
 
 -	**Tell me about encouraging or enabling a member of your team to take big risk.  How did you balance the risk to the business with possible positive outcome for the organization and opportunity for learning for your direct report?** 
 
@@ -282,7 +285,7 @@ While In alpeo and working with the sales team, I realized that most of prospect
 This is story about the time when we deceided to move Monolethic application to microservices. WIt was a challenge since this was my project on microservices. This required lot of reading and rearchitecting the application. To metegate the risk we use phased approch and memoved one or two module at a time. 
 
 
-## Question 22 (Bias for Action)
+## Question 27 (Bias for Action)
 
 1. **Tell me about a time where you felt your team was not moving to action quickly enough.  What did you do?**
 
@@ -300,7 +303,7 @@ My team a wrapper service and sample page for
 
 This is the time when I was working in alepo and I had closed the sales 
 
-## Question 22 (Bias for Action)
+## Question 28 (Bias for Action)
 
 
 - **Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress?  How were you able to remove the barrier?  What was the outcome?**
@@ -320,7 +323,7 @@ So recently we have enabled IPV6 on our DNS. After enabling IPV6 team tested the
 
 
 
-## Question 23 (Frugality)
+## Question 29 (Frugality)
 
 - **Give an example of a time when you challenged your team to come up with more efficient solution or process.  What drove the request?  How did you help?**
 
@@ -328,7 +331,9 @@ So recently we have enabled IPV6 on our DNS. After enabling IPV6 team tested the
 
 Recnetly I have asked to deploy one of our application for on azure cloud for the Sales Demo. While working on the architecture, I ahd a choice to use the APIGw which has a little higher hourly cost instaed of running web server. Rather than using azure gw, I deceide to use ngnix server along weith netflix zuul APIGW which is opensource. 
 
-## Question 23 (Earn Trust)
+another example of using elk instead of kibana.
+
+## Question 30 (Earn Trust)
 
 - **Tell me about a time your team’s goals were out of alignment with another team on which you relied to attain a key resource.  How did you work with the other team?  Were you able to achieve your goals?**
 
