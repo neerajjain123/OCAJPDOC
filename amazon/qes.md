@@ -58,11 +58,26 @@ Having evening sync up and close for the day.
 
 ## Question 6
 
-- **Who was your most difficult customer?** or
-- **Tell me about a time when you went above and beyond the call of duty for a customer.  Why did you take the action you did?  What was the outcome?**
+- **Who was your most difficult customer?**
 
 **Answer** 
-MTN camerroon was the best example where we were deploying the payment gateway for their wifi on demand services. They had a genuine problem where around midnight there were serge in the payment failures and consumer were impacted. They reported the issue to my opeartion team which further dealyed the resolution since team shugged it off saying that issue was at the bakend system and API SLA is breaching. Than issue escalated and came to me. I looked into the problem and relaized that it might not be our issue but certianly the platform as a whole. When we debug the problem we realized that OCS(Ericssion server) was breaching the SLA but issue was not with the Ericssion but with the network latency. Later it was identified thet nwtwork were congested since DB backup between two sites and using the same network. 
+MTN cameroon was the best example where we had deployed our wifi on demand solution. They had a genuine problem where around midnight there were surge in the payment failures and consumer were impacted. They reported the issue to my operation team but team shrugged it off saying that issue is at the charging system and API SLA is breaching. Than issue escalated and came to me. I looked into the problem and realized that is correct and most of the request is having read timeout. When we debug the problem we realized that OCS(Ericsson server) was breaching the SLA. 
+
+Later issue was not with the Ericsson either. Later it was identified that network were congested since DB backup between two sites and using the same network. 
+
+difficult customers Trait:
+
+- The Bully
+
+This type of difficult customer is quick to anger, very aggressive, highly critical, impatient, rude, arrogant and often verbally abusive.
+
+- Mr. Know-it-all
+
+I am sure you’ve met this kind of person before. They seem to know everything about everything, including your business, product or service.
+
+- The Habitual Complainer
+
+Generally, customers complain. And it’s a good thing because complaints can be a very rich source of positive and constructive feedback for your business.
 
 ## Question 7 (co)
 
@@ -70,12 +85,13 @@ MTN camerroon was the best example where we were deploying the payment gateway f
 
 **Answer**
 
-This is when I was working with ETB and we ceakced a deal to dpeloy AAA solution for their DSL/fiber customer. During the sales we indetofoed the integration and project was closed. I as delivery lead moved to columbia with the team for UAT. during onsite we got to know that we have got new integration componeent as sandwine DPI. This integration for us was not only configuration buit require some development as well to consume their API. This was clearly a chnage request for me so I raised it to the client that this will requir a CR and I need to get the approval from sales VP before I go ahead with the integration. Additional work was for a week for development and testing which was impacting out onsite plan and timeline so I had to update the managament about the chnages. 
+This is when I was working with ETB and closed a deal to deploy AAA solutions for their DSL/fiber customer. During the sales, we identified the integration, and the sale was closed. I as delivery lead moved to Columbia with the team for UAT. during onsite we got to know that we have got a new integration component as Sandvine DPI. This integration for us was not the only configuration but require some development as well. This was clearly a change request for me so I raised it to the client that this will require a CR and I need to get the approval from sales VP before I go ahead with the integration. Additional work was for a week for development and testing which was impacting our onsite plan and timeline so I had to update the management about the changes. 
 
-But before that my disscussion with the client to let them know the new chnages in timeline and onsite plan due to the new requimrnet and he agreed a week delay but was not ready to pay for the new development. Than I spoke to my manager which was sales VP at time and got the approval and we agreed that we need to raise the CR for sure and waveoff the cost. This was wini win for the both the team. 
+But before that my discussion with the client to let them know the new changes in timeline and onsite plan due to the new requirement and he agreed a week delay but was not ready to pay for the new development. Then I spoke to my manager which was sales VP at the time and got the approval and we agreed that we need to raise the CR for sure and wave off the cost. This was a win-win for both the team. 
 
 
 ## Question 8 (co)
+
 - **Tell the story of the last time you had to apologize to someone.**
 
 **Answer**
