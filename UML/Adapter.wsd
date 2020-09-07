@@ -1,0 +1,50 @@
+@startuml AdapterPattern
+
+
+skinparam BoxPadding 20
+skinparam sequenceArrowThickness 2
+skinparam SequenceGroupBodyBackgroundColor transparent
+
+interface Duck {
+	public void quack();
+	public void fly();
+}
+
+
+class MallardDuck implements Duck {
+	public void quack() ;
+ 
+	public void fly();
+}
+
+
+
+
+interface Turkey {
+	public void gobble();
+	public void fly();
+}
+
+
+class WildTurkey implements Turkey {
+	public void gobble() ;
+ 
+	public void fly() ;
+}
+
+
+TurkeyAdapter *-- Turkey
+
+class TurkeyAdapter implements Duck {
+	Turkey turkey;
+
+	public TurkeyAdapter (Turkey turkey);
+	public void quack();
+  
+	public void fly();
+
+	
+}
+
+@enduml
+

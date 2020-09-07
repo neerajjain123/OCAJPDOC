@@ -96,7 +96,9 @@ But before that my discussion with the client to let them know the new changes i
 
 **Answer**
 
-This is the recent incident I had with one of the VP in my company and he was tring to add kotak account in the UPI but it was not working. So i asked him if he can try some other bank and he did and it worked. After I came back home and my wife has account with kotak. So I onboarded her and tried add kotak bank accountand it failed. This time I asked my operation team to analyse the logs and identify the problem and found that NPCI is not giving the data in proper format. Since we can not test this in lower enviormnent, all we had to handle the scenerio in production. 
+This is the recent incident when one of the VP in Jio, was trying to add Kotak account in the UPI but it was not working. So I asked him if he can try some other bank and he did and it worked. After I came back home and my wife has an account with Kotak. So I on-boarded her and tried to add Kotak bank account and it failed. This time I asked my operation team nad team lead to analyze the logs and identify the problem and found that NPCI is not giving the data in the proper format. Since we can not test this in a lower environment, all we had to handle the scenario in production. 
+
+Once issue is rectified then I called my VP and apologized for the failure. I asked him to add the bank account and it worked. 
 
 
 ## Question 9 (co)
@@ -105,14 +107,14 @@ This is the recent incident I had with one of the VP in my company and he was tr
 
 **Answer** 
 
-Whenw we release our first version of the UPI application where every login require to give your mpin to accesws dashboard. But we have not seen lot of user login to the dashboard and aborting the login and number of trasaction were really low. so we deicede to let go the app mpin screen since trasnaction is already protected with the UPIN. 
+When we release our first version of the UPI application where every login require to give your mpin to access dashboard. But we have not seen lot of user login to the dashboard and aborting the login and number of transaction were really low. so we deicide to let go the app mpin screen since transaction is already protected with the UPIN. 
 
 ## Question 10 (co)
 
 - **What changes have you implemented in your current department to meet the needs of your customers?  What has been the result?**
 
 **Answer**
-When we launched UPI and finance service as part myjio for CUG customer, we began with the android and ios native development. But the time to production was really high if the bug fixes is require at the client side. Myjio Playstore push require roughly 3 weeks. So I decided that some of the banking feature we can move to web instead of native. Not only this isgnificantly reduced our time to prodution but also the man power which was for android and ios. 
+When we launched UPI and finance service as part myjio for CUG customer, we began with the android and ios native development. But the time to production was really high if the bug fixes is require at the client side. Myjio playstore push require roughly 3 weeks. So I decided that some of the banking feature we can move to web instead of native. Not only this significantly reduced our time to production but also the man power which was for android and ios. 
 
 
 ## Question 11 (co)
@@ -120,9 +122,9 @@ When we launched UPI and finance service as part myjio for CUG customer, we bega
 - **Tell me about a time a customer wanted one thing, but you felt they needed something else.  How did you approach the situation, what were your actions and what was the end result?**
 
 **Answer** 
-This is the inceident when my product team came to me where thay want to use MyJio UPI payment option while performing the recharge option. Issue was that if you on the recharge page and send a collect request to jio id id exist. we could do it but the problem was if customer move from rechrage to UPI page than there was no return path. 
+This is the incident when my product team came to me where they want to use MyJio UPI payment option while performing the recharge option. Issue was that if you on the recharge page and send a collect request to jio id id exist. we could do it but the problem was if customer move from recharge to UPI page than there was no return path. 
 
-What I propsed to use the pay feature instaed of collect, after reacharge amount is selected and customer decided to make payment than lets open the send  money page with amount VPA pre popuulated. This made customer journey really smooth. No switching back and fourth and you complete the payment.
+What I proposed to use the pay feature instead of collect, after recharge amount is selected and customer decided to make payment than lets open the send  money page with amount VPA pre populated. This made customer journey really smooth. No switching back and fourth and you complete the payment.
 
 ## Question 12 (ownership)
 
@@ -197,9 +199,9 @@ Three years back when I joined Jio, I have asssigned a very critical feature whi
 
 
 **Another Answer** 
-While working with MTN cameroon wimax solution I was reposnsible to write SOW and get the customer signoff before sending to the project team. Since this was my first project I created the SOW and and send it to customer review. After first review I have forward the SOW to the project team. I made a mistake to get the final signoff before sending it to the project manager. Later when team went to the UAT, cutomer were requesting the feature for location based charging. Out of the feature for location was not enough execute the UAT and needed a quite good development. Customer said that they never signed off the SOW and insited on the feature from day one. 
+While working with MTN cameroon wimax solution I was responsible to write SOW and get the customer signoff before sending to the project team. Since this was my first project I created the SOW and and send it to customer review. After first review I have forward the SOW to the project team. I made a mistake to get the final signoff before sending it to the project manager. Later when team went to the UAT, customer were requesting the feature for location based charging. Out of the feature for location was not enough execute the UAT and needed a quite good development. Customer said that they never signed off the SOW and insisted on the feature from day one. 
 
-My mistake cost me almost 3 weeks of extra work for the team and I almost lost my job. But I learned my lession and only only I started taking isgnoff from the SOW but UAT testcases need to be agreed and signed off before project handover to the prokject manager.
+My mistake cost me almost 3 weeks of extra work for the team and I almost lost my job. But I learned my lesson and only only I started taking signoff from the SOW but UAT testcases need to be agreed and signed off before project handover to the project manager.
 
 
 ## Question 18 (Are right Alot)
