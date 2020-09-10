@@ -1,12 +1,12 @@
 ## Insist on Highest Standards
 
-•	Describe a time when you refused to compromise your standards around quality/customer service, etc. Who was your customer? What was the result?
-•	**Tell me about a time when you were unsatisfied with the status quo. What did you do to change it?  What was the impact? Would you do anything differently in the future?**
-•	Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback. Why did you think it needed improvement? How did customers react?
-•	**Tell me about a time when you had to make a decision between standards and delivery. What tradeoffs did you have make? What was the outcome? Knowing what you know now, would you have done anything differently?**
-•	Give me an example of a goal you’ve had where you wish you had done better. What was the goal? How could you have improved on it?
-•	**Describe the most significant continuous improvement project that you led. What was the catalyst to this change and how did you go about it? What was the outcome?**
-•	**Tell me about a time when you used feedback about your team to drive a change. How did you gather or receive feedback on your team's performance? What was the outcome? (Manager)**
+•	Describe a time when you refused to compromise your standards around quality/customer service, etc. Who was your customer? What was the result?</br>
+•	**Tell me about a time when you were unsatisfied with the status quo. What did you do to change it?  What was the impact? Would you do anything differently in the future?**</br>
+•	Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback. Why did you think it needed improvement? How did customers react?</br>
+•	**Tell me about a time when you had to make a decision between standards and delivery. What tradeoffs did you have make? What was the outcome? Knowing what you know now, would you have done anything differently?**</br>
+•	Give me an example of a goal you’ve had where you wish you had done better. What was the goal? How could you have improved on it?</br>
+•	**Describe the most significant continuous improvement project that you led. What was the catalyst to this change and how did you go about it? What was the outcome?**</br>
+•	**Tell me about a time when you used feedback about your team to drive a change. How did you gather or receive feedback on your team's performance? What was the outcome? (Manager)**</br>
 
 
 ## Dive Deep
