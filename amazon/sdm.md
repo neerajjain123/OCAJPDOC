@@ -10,24 +10,24 @@
 
 
 ## Dive Deep
-•	**Tell me about a time when you were trying to understand a complex problem on your team and you had to dig into the details to figure it out. Who did you talk with or where did you have to look to find the most valuable information? How did you use that information to help solve the problem?**
-•	**Tell me about a situation that required you to dig deep to get to the root cause. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently?**
-•	**Tell me about a problem you had to solve that required in-depth thought and analysis. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently?**
-•	**Walk me through a big problem or issue in your organization that you helped to solve. How did you become aware of it? What information did you gather? What information was missing and how did you fill the gaps? Did you do a reflection at the conclusion of the project? If so, what did you learn?**
-•	**Tell me about a specific metric you have used to identify a need for a change in your department. Did you create the metric or was it already available?  How did this and other information influence the change? What was the outcome of this change?**
-•	**Have you ever created a metric that helped identify a need for a change in your department? What was the metric? Why did you create it? How did this and other information influence change? What was the outcome of the change?**
-•	Tell me about a time when you had to validate the assumptions underlying a direct report's project. How did you decide follow up was necessary? What steps, if any, did you take to validate the assumptions? What was the result? (Manager)
+•	**Tell me about a time when you were trying to understand a complex problem on your team and you had to dig into the details to figure it out. Who did you talk with or where did you have to look to find the most valuable information? How did you use that information to help solve the problem?**</br>
+•	**Tell me about a situation that required you to dig deep to get to the root cause. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently?**</br>
+•	**Tell me about a problem you had to solve that required in-depth thought and analysis. How did you know you were focusing on the right things? What was the outcome? Would you have done anything differently?**</br>
+•	**Walk me through a big problem or issue in your organization that you helped to solve. How did you become aware of it? What information did you gather? What information was missing and how did you fill the gaps? Did you do a reflection at the conclusion of the project? If so, what did you learn?**</br>
+•	**Tell me about a specific metric you have used to identify a need for a change in your department. Did you create the metric or was it already available?  How did this and other information influence the change? What was the outcome of this change?**</br>
+•	**Have you ever created a metric that helped identify a need for a change in your department? What was the metric? Why did you create it? How did this and other information influence change? What was the outcome of the change?**</br>
+•	Tell me about a time when you had to validate the assumptions underlying a direct report's project. How did you decide follow up was necessary? What steps, if any, did you take to validate the assumptions? What was the result? (Manager)</br>
 
 ## Earn Trust
-•	**Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with. What did you do to understand the concerns and mitigate them? Were there any changes you made along the way after hearing these concerns? How did you handle questions and/or resistance? Were you able to get people comfortable with the change?**
-•	Give me an example of a tough or critical piece of feedback you received. What was it and what did you do about it?
-•	Describe a time when you needed to influence a peer who had a differing opinion about a shared goal. What did you do? What was the outcome?
-•	Give me an example of a time when you were not able to meet a commitment. What was the commitment and what were the obstacles that prevented success? What was the impact to your customers/peers and what did you learn from it?
-•	**Tell me about a time when your team’s goals were out of alignment with another team you relied on in order to meet your goal. How did you work with the other team? Were you able to achieve your goals?**
-•	Tell me about a time when you uncovered a significant problem in your team. What was it and how did you communicate it to your manager and other stakeholders? What did you do to address the problem? How did you manage the impact of this problem for the rest of your team?
-•	**Describe a time when you improved morale and productivity on your team. What were the underlying problems and their causes? How did you prevent them from negatively impacting the team in the future?**
-•	**Tell me about a time when a team member was struggling to keep up or fit in and you stepped in to help out. Why did you think they were struggling or not fitting in? Why did you decide in step in and support? What did you do to help out? How did it impact your work? What was the outcome? What did you learn from that situation?**
-•	**Tell me about a time when a team member was not performing well and impacted your work. How did you handle that situation? Why were they not performing well? What was the outcome? What did you learn from that situation?**
+•	**Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with. What did you do to understand the concerns and mitigate them? Were there any changes you made along the way after hearing these concerns? How did you handle questions and/or resistance? Were you able to get people comfortable with the change?**</br>
+•	Give me an example of a tough or critical piece of feedback you received. What was it and what did you do about it?</br>
+•	Describe a time when you needed to influence a peer who had a differing opinion about a shared goal. What did you do? What was the outcome?</br>
+•	Give me an example of a time when you were not able to meet a commitment. What was the commitment and what were the obstacles that prevented success? What was the impact to your customers/peers and what did you learn from it?</br>
+•	**Tell me about a time when your team’s goals were out of alignment with another team you relied on in order to meet your goal. How did you work with the other team? Were you able to achieve your goals?**</br>
+•	Tell me about a time when you uncovered a significant problem in your team. What was it and how did you communicate it to your manager and other stakeholders? What did you do to address the problem? How did you manage the impact of this problem for the rest of your team?</br>
+•	**Describe a time when you improved morale and productivity on your team. What were the underlying problems and their causes? How did you prevent them from negatively impacting the team in the future?**</br>
+•	**Tell me about a time when a team member was struggling to keep up or fit in and you stepped in to help out. Why did you think they were struggling or not fitting in? Why did you decide in step in and support? What did you do to help out? How did it impact your work? What was the outcome? What did you learn from that situation?**</br>
+•	**Tell me about a time when a team member was not performing well and impacted your work. How did you handle that situation? Why were they not performing well? What was the outcome? What did you learn from that situation?**</br>
 
 ## Think Big
 •	**Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus. Did you take that opportunity? Why or why not? What was the outcome?**
