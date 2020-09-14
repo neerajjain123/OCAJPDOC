@@ -56,23 +56,73 @@
 ### Answer: Give Shivam example
 
 ## Think Big
-•	**Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus. Did you take that opportunity? Why or why not? What was the outcome?**
-•	**Give me an example of how you have changed the direction or view of a specific function/department and helped them embrace a new way of thinking. Why was a change needed?  What was the outcome?**
-•	**Give me an example of a time you proposed a novel approach to a problem. What was the problem and why did it require a novel approach? Was your approach successful?**
-•	Tell me about a time when you drove adoption for your vision/ideas. How did you know your vision/idea was adopted by others? How did you drive adoption for your vision/ideas? How did you track adoption? Would you do anything differently?
-•	**Give me an example of an idea or vision you had which was adopted by global stakeholders. How did you drive adoption for your vision/ideas? How did you track adoption? Would you do anything differently?**
-•	Tell me about a time when you thought differently to improve a process that was working. What assumptions did you have to question? How did you evaluate if the change improved the process? Knowing what you know now, would you do anything differently?
-•	Tell me about a time when you encouraged a team member or organization to take a big risk. How did you balance the risk against existing business goals? What was the outcome? What did you learn from this situation? (Manager)
+•	**Tell me about time when you were working on an initiative or goal and saw an opportunity to do something much bigger or better than the initial focus. Did you take that opportunity? Why or why not? What was the outcome?** </br>
+
+#### Answer: Alepo AWS story. 
+
+•	**Give me an example of how you have changed the direction or view of a specific function/department and helped them embrace a new way of thinking. Why was a change needed?  What was the outcome?** </br>
+
+#### Answer: Alepo AWS story and build a devops team
+
+•	**Give me an example of a time you proposed a novel approach to a problem. What was the problem and why did it require a novel approach? Was your approach successful?** </br>
+
+#### Answer: Designing API encryption along with API GW
+
+•	**Tell me about a time when you drove adoption for your vision/ideas. How did you know your vision/idea was adopted by others? How did you drive adoption for your vision/ideas? How did you track adoption? Would you do anything differently?**</br>
+
+#### Answer: Alepo AWS story and build a devops team
+
+•	**Give me an example of an idea or vision you had which was adopted by global stakeholders. How did you drive adoption for your vision/ideas? How did you track adoption? Would you do anything differently?**</br>
+
+#### Answer: Alepo AWS story and build a devops team
+
+•	**Tell me about a time when you thought differently to improve a process that was working. What assumptions did you have to question? How did you evaluate if the change improved the process? Knowing what you know now, would you do anything differently?**</br>
+
+#### Answer: JEP platform is best example
+
+
+•	Tell me about a time when you encouraged a team member or organization to take a big risk. How did you balance the risk against existing business goals? What was the outcome? What did you learn from this situation? (Manager)</br>
+
+# Answer: give ELK example
+
+
 •	**Tell me about a time when you established a vision for a (team, product, initiative) when there wasn't one. How did you gain buy-in and drive execution? What was the outcome? Would you have done anything differently? (Manager)**
+
+#### Answer: give JioMart Project Grab
 
 ## Invent and Simplify
 •	**Give me an example of a complex problem you solved with a simple solution. What made the problem complex? How do you know your solution addressed the problem?**
-•	Describe the most innovative thing you’ve done and why you thought it was innovative. Ask for one or two more examples to see if it's a pattern of innovative thinking. What was the problem it was solving? What was innovative about it?
-•	Tell me about a time when you were able to make something simpler for customers. What drove you to implement this change? What was the impact?
-•	Describe a time when you influenced and drove new thinking and innovation out of your team. Give an example of how your approach led to a specific innovation.
-•	Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address. How did you select an alternative approach? What alternative approach(es) did you consider? What was the end result? What was the impact?
-•	**Tell me about a novel idea you had or decision you made that had a big impact on your business. What was novel about it?**
-•	Tell me about a time when you enabled your team/a team member to implement a significant change or improvement. What problem were you trying to solve? How did you measure success? What was the end result/impact? (Manager)
+
+#### Answer: ELK Stack
+•	Describe the most innovative thing you’ve done and why you thought it was innovative. Ask for one or two more examples to see if it's a pattern of innovative thinking. What was the problem it was solving? What was innovative about it?</br>
+
+#### Answer:
+
+1. Converging payment option for Biller
+2. Logging using ELK
+3. HERO Recharge Journey 
+4. Designing React Pages
+5. Get rid of Application MPIN
+
+
+•	Tell me about a time when you were able to make something simpler for customers. What drove you to implement this change? What was the impact?</br>
+
+#### Converging payment option for Biller
+
+•	Describe a time when you influenced and drove new thinking and innovation out of your team. Give an example of how your approach led to a specific innovation.</br>
+
+
+
+•	Tell me about a time when you had a challenging problem or situation that the usual approach wouldn't address. How did you select an alternative approach? What alternative approach(es) did you consider? What was the end result? What was the impact?</br>
+
+
+
+•	**Tell me about a novel idea you had or decision you made that had a big impact on your business. What was novel about it?**</br>
+#### ANSWER: Alepo cloud. 
+
+•	Tell me about a time when you enabled your team/a team member to implement a significant change or improvement. What problem were you trying to solve? How did you measure success? What was the end result/impact? (Manager)</br>
+
+#### changing monolithic to microservice 
 
 ## Have Backbone, disagree and commit
 •	Tell me about a time when you strongly disagreed with your manager or peer on something you considered very important to the business. What was it and how did you handle it? Knowing what you know now, would you do anything differently? 
